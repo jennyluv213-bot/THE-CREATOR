@@ -1,0 +1,5 @@
+{
+  "name": "STUDY ELITE",
+  "description": "An AI-powered high school study timetable generator tailored for SHS students with core and elective subjects. Optimizes home study hours around school and sleep schedules.",
+  "requestFramePermissions": []
+}
